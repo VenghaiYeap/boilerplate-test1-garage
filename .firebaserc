@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "ai-assistant-rmit-group-30"
   },
   "targets": {},
   "etags": {}
